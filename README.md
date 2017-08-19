@@ -1,1 +1,1 @@
-# intent-classifier
+# chatbot-intent-classifier
