@@ -40,4 +40,4 @@ This project is licensed under the Apache License - see the [LICENSE](LICENSE) f
 ## Acknowledgments
 
 * https://radimrehurek.com/gensim/models/word2vec.html
-* 
+* http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
