@@ -23,10 +23,10 @@ The project identifies the intent associated with the query based on the intents
     pip install -r requirements.txt
     cd chatbot-intent-classifier
 
-* Training
+**Training**
     python data_loader.py    
 
-* Testing
+**Testing**
     python classifier.py
 
 ## Authors
