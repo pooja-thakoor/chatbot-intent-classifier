@@ -24,10 +24,14 @@ The project identifies the intent associated with the query based on the intents
     cd chatbot-intent-classifier
 
 **Training**
+```python
     python data_loader.py    
+```
 
 **Testing**
+```python
     python classifier.py
+```
 
 ## Authors
 
