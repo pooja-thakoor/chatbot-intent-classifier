@@ -25,12 +25,12 @@ The project identifies the intent associated with the query based on the intents
 
 **Training**
 ```python
-    python data_loader.py    
+python data_loader.py    
 ```
 
 **Testing**
 ```python
-    python classifier.py
+python classifier.py
 ```
 
 ## Authors
