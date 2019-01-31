@@ -18,7 +18,7 @@ The project identifies the intent associated with the query based on the intents
 
 ### Installing
 
-    git clone https://github.com/pooja-thakoor/chatbot-intent-classifier.git
+    git clone https://github.com/poojathakoor/chatbot-intent-classifier.git
     cd chatbot-intent-classifier
     pip install -r requirements.txt
     cd chatbot-intent-classifier
